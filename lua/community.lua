@@ -11,4 +11,5 @@ return {
   { import = "astrocommunity.pack.html-css" },
   { import = "astrocommunity.diagnostics.trouble-nvim" },
   { import = "astrocommunity.recipes.vscode-icons" },
+  { import = "astrocommunity.recipes.vscode" },
 }
